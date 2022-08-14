@@ -63,7 +63,7 @@ body{
 .footer-div .footerr{
   display: flex;
   position: absolute;
-  bottom: 0px;
+  bottom: 0;
   right: 50px;
   left: 50px;
   text-align: center;
