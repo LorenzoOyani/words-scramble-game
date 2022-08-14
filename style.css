@@ -60,16 +60,6 @@ body{
 
 
 }
-.footer-div .footerr{
-  display: flex;
-  position: absolute;
-  bottom: 0;
-  right: 50px;
-  left: 50px;
-  text-align: center;
-  width: 100%;
-  align-items: center;
-}
 
 .content .button{
   display: flex;
